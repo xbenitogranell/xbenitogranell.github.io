@@ -16,7 +16,7 @@ Funded by [International Union for Quaternary Research](www.inqua.org), the mult
 The overarching goal of pSESYNTH is to establish, articulate and strengthen regional, interdisciplinary teams for studying past socio-environmental systems of the Global South through **building the first multi-disciplinary paleo-database** representing its regions. 
 
 pSESYNTH activities are being developed around three main objectives (Fig. 1):
-  1. To **explore** what processes allow us to infer past drivers of environmental change using an interdisciplinary multiproxy approach, organized into three themes: paleoecology (e.g., pollen, charcoal, diatoms), paleoclimatology (e.g., biomarkers, stable isotopes, varves, numerical simulations), and archaeology (e.g., radiocarbon dates, phytoliths, archaeobotanical remains, material culture).
+  1. To **explore** what processes allow us to infer past drivers of environmental change using an interdisciplinary multiproxy approach, organized into three themes: _paleoecology_ (e.g., pollen, charcoal, diatoms), _paleoclimatology_ (e.g., biomarkers, stable isotopes, varves, numerical simulations), and _archaeology_ (e.g., radiocarbon dates, phytoliths, archaeobotanical remains, material culture).
   
   2. To quantitatively **analyze** the links among paleoecology, paleoclimatology and archaeology, with an emphasis on research questions that can be generic across the Global South (e.g., are there connections – or commonalities – between colonial legacies and the evolution of socio-environmental systems in the Global South?) or specific to each sub-region (e.g., at what spatial and temporal scales were human-environmental systems coupled or uncoupled to climatic fluctuations?).
   
@@ -32,6 +32,8 @@ Ignacio Jara
 Manuel Chevalier
 
 <img title="Methodology" alt="Alt text" src="/images/Global South and pSESYNTH participants and datasets.PNG">
+
+### Contact
 
 ### Outputs
 
