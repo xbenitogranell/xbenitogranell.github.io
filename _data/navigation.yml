@@ -9,13 +9,13 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "pSESYNTH"
-    url: /portfolio/
+  # - title: "pSESYNTH"
+  #   url: /portfolio/
   #       
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
+  - title: "Projects"
     url: /cv/
     
   # - title: "Guide"
