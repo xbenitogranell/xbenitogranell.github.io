@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Full CV](https://docs.google.com/document/d/1PqAJ9K_Z8FAdpAnS9az11EdR_AJ5KQRzI9Knd5O4CGI/edit)
-
-Education
+pSESYNTH
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
