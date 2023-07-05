@@ -17,7 +17,7 @@ My research interests lie at the interface of **limnology, palaeoecology and bio
 
 Research
 ======
-Keywords
+Keywords> `Biogeography` `Diatoms` `Benthic foraminifera` `aquatic paleoecology` `Quantitative time series modelling` `Ecological resilience` `Data-driven synthesis`
 
 CV
 ======

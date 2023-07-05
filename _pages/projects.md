@@ -33,5 +33,5 @@ Manuel Chevalier
 
 <img title="Methodology" alt="Alt text" src="/images/Global South and pSESYNTH participants and datasets.PNG">
 
-
+### Outputs
 
