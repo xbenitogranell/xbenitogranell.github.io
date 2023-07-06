@@ -11,7 +11,7 @@ pSESYNTH
 ======
 >Community mobilization for a multidisciplinary paleo-database of the Global South
 
-Funded by [International Union for Quaternary Research](www.inqua.org), the multi-year project “The whole is not the sum of the parts: building a synthesis database of past human-environmental systems in the Global South (pSESYNTH)” promotes international coordinated efforts to enhance paleo-scientific research, collaboration and application in the Global South.
+Funded by [International Union for Quaternary Research](https://inqua.org), the multi-year project “The whole is not the sum of the parts: building a synthesis database of past human-environmental systems in the Global South (pSESYNTH)” promotes international coordinated efforts to enhance paleo-scientific research, collaboration and application in the Global South.
 
 The overarching goal of pSESYNTH is to establish, articulate and strengthen regional, interdisciplinary teams for studying past socio-environmental systems of the Global South through **building the first multi-disciplinary paleo-database** representing its regions. 
 
@@ -26,10 +26,12 @@ pSESYNTH activities are being developed around three main objectives (Fig. 1):
 
 ### People
 
-Xavier Benito
-Charuta Kulkarni
-Ignacio Jara
-Manuel Chevalier
+|                  |        |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [Xavier Benito](mailto:xavier.benito.granell@gmail.com)    | Co-PI      |                           |
+| [Charuta Kulkarni](mailto:ckulkarni@gradcenter.cuny.edu)    |        |                           |
+| [Ignacio A. Jara](mailto:elignaciojara@gmail.com)     |        |                           |
+| [Manuel Chevalier](https://mchevalier2.github.io)     |        |                           |
 
 <img title="Methodology" alt="Alt text" src="/images/Global South and pSESYNTH participants and datasets.PNG">
 
