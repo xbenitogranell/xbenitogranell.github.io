@@ -26,8 +26,8 @@ pSESYNTH activities are being developed around three main objectives (Fig. 1):
 
 ### People
 
-|                  |        |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
+| Who          |  Role      |  Interests                                                   |
+| ------------ | ---------- | ------------------------------------------------------------ |
 | [Xavier Benito](mailto:xavier.benito.granell@gmail.com)    | Co-PI      | Aquatic (paleo)ecologist interested in seeking when, where and by how much ecological communities change as response to natural and human-altered environmental regimes                          |
 | [Charuta Kulkarni](mailto:ckulkarni@gradcenter.cuny.edu)    | Co-PI     | I am a geologist, archaeologist and paleo-ecologist by training. Integrating knowledge from these disciplines. My research investigates transformations of past European landscapes and climatic and human influences responsible for these transformations |
 | [Ignacio A. Jara](mailto:elignaciojara@gmail.com)     |        |                           |
