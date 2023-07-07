@@ -28,14 +28,22 @@ pSESYNTH activities are being developed around three main objectives (Fig. 1):
 
 |                  |        |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| [Xavier Benito](mailto:xavier.benito.granell@gmail.com)    | Co-PI      |                           |
-| [Charuta Kulkarni](mailto:ckulkarni@gradcenter.cuny.edu)    |        |                           |
+| [Xavier Benito](mailto:xavier.benito.granell@gmail.com)    | Co-PI      | Aquatic (paleo)ecologist interested in seeking when, where and by how much ecological communities change as response to natural and human-altered environmental regimes                          |
+| [Charuta Kulkarni](mailto:ckulkarni@gradcenter.cuny.edu)    | Co-PI     | I am a geologist, archaeologist and paleo-ecologist by training. Integrating knowledge from these disciplines. My research investigates transformations of past European landscapes and climatic and human influences responsible for these transformations |
 | [Ignacio A. Jara](mailto:elignaciojara@gmail.com)     |        |                           |
 | [Manuel Chevalier](https://mchevalier2.github.io)     |        |                           |
 
 <img title="Methodology" alt="Alt text" src="/images/Global South and pSESYNTH participants and datasets.PNG">
 
 ### Contact
+Anyone interested in joining pSESYNTH can email the coordinators. We are seeking researchers working in or from the Global South, with broad interests in question-driven synthesis at the intersection of the three target project's themes: **paleoclimatology**, **paleoecology**, and **archaeology**.
+
+Get in touch!
 
 ### Outputs
+
+Kulkarni et al. (2023) pSESYNTH project: Community mobilization for a multi-disciplinary paleo database of the Global South. Pages Magazine 31: 30-31 [Download paper here](https://pastglobalchanges.org/publications/pages-magazines/pages-magazine/137240)
+
+
+
 
