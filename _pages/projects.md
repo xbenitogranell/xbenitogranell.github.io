@@ -11,6 +11,8 @@ pSESYNTH
 ======
 >Community mobilization for a multidisciplinary paleo-database of the Global South
 
+<img title="INQUA" alt="Alt text" src="/images/inqua.png">
+
 Funded by [International Union for Quaternary Research](https://inqua.org), the multi-year project “The whole is not the sum of the parts: building a synthesis database of past human-environmental systems in the Global South (pSESYNTH)” promotes international coordinated efforts to enhance paleo-scientific research, collaboration and application in the Global South.
 
 The overarching goal of pSESYNTH is to establish, articulate and strengthen regional, interdisciplinary teams for studying past socio-environmental systems of the Global South through **building the first multi-disciplinary paleo-database** representing its regions. 
@@ -28,10 +30,10 @@ pSESYNTH activities are being developed around three main objectives (Fig. 1):
 
 | Who          |  Role      |  Interests                                                   |
 | ------------ | ---------- | ------------------------------------------------------------ |
-| [Xavier Benito](mailto:xavier.benito.granell@gmail.com)    | Co-PI      | Aquatic (paleo)ecologist interested in seeking when, where and by how much ecological communities change as response to natural and human-altered environmental regimes                          |
-| [Charuta Kulkarni](mailto:ckulkarni@gradcenter.cuny.edu)    | Co-PI     | I am a geologist, archaeologist and paleo-ecologist by training. Integrating knowledge from these disciplines. My research investigates transformations of past European landscapes and climatic and human influences responsible for these transformations |
-| [Ignacio A. Jara](mailto:elignaciojara@gmail.com)     |        |                           |
-| [Manuel Chevalier](https://mchevalier2.github.io)     |        |                           |
+| [Xavier Benito](mailto:xavier.benito.granell@gmail.com)    | Co-PI      | Aquatic (paleo)ecologist interested in seeking when, where and by how much ecological communities change as response to natural and human-altered environmental regimes |
+| [Charuta Kulkarni](mailto:ckulkarni@gradcenter.cuny.edu)    | Co-PI     | Interdisciplinary earth scientist exploring the formations and transformations of social-ecological systems, that are windows into empirically-informed inclusive solutions for their sustainable management |
+| [Ignacio A. Jara](mailto:elignaciojara@gmail.com)     |        | Paleoclimatologist and climate modeller focused on past, present and future hydroclimate changes in the Central Andes, South America |
+| [Manuel Chevalier](https://mchevalier2.github.io)     | Co-PI  |                           |
 
 <img title="Methodology" alt="Alt text" src="/images/Global South and pSESYNTH participants and datasets.PNG">
 
