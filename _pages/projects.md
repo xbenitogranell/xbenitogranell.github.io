@@ -1,10 +1,9 @@
 ---
-layout: archive
 title: "Projects"
+layout: archive
 permalink: /projects/
-author_profile: true
-redirect_from:
-  - /resume
+author_profile: yes
+redirect_from: /resume
 ---
 
 pSESYNTH
@@ -29,10 +28,10 @@ pSESYNTH activities are being developed around three main objectives (Fig. 1):
 ### People
 
 | Who          |  Role      |  Interests                                                   |
-| ------------ | ---------- | ------------------------------------------------------------ |
+| ------------------ | ---------------- | ------------------------------------------------------------ |
 | [Xavier Benito](mailto:xavier.benito.granell@gmail.com)    | Co-PI      | Aquatic (paleo)ecologist interested in seeking when, where and by how much ecological communities change as response to natural and human-altered environmental regimes |
 | [Charuta Kulkarni](mailto:ckulkarni@gradcenter.cuny.edu)    | Co-PI     | Interdisciplinary earth scientist exploring the formations and transformations of social-ecological systems, that are windows into empirically-informed inclusive solutions for their sustainable management |
-| [Ignacio A. Jara](mailto:elignaciojara@gmail.com)     |        | Paleoclimatologist and climate modeller focused on past, present and future hydroclimate changes in the Central Andes, South America |
+| [Ignacio A. Jara](mailto:elignaciojara@gmail.com)     | Co-PI  | Paleoclimatologist and climate modeller focused on past, present and future hydroclimate changes in the Central Andes, South America |
 | [Manuel Chevalier](https://mchevalier2.github.io)     | Co-PI  |                           |
 
 <img title="Methodology" alt="Alt text" src="/images/Global South and pSESYNTH participants and datasets.PNG">
