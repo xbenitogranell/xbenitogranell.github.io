@@ -46,5 +46,7 @@ Get in touch!
 Kulkarni et al. (2023) pSESYNTH project: Community mobilization for a multi-disciplinary paleo database of the Global South. Pages Magazine 31: 30-31 [Download paper here](https://pastglobalchanges.org/publications/pages-magazines/pages-magazine/137240)
 
 
-
+OLILGOTREND
+======
+>Anticipating non-linear changes across aquatic ecosystems in response to oligotrophication trends
 
