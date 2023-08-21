@@ -26,7 +26,7 @@ The densification of water bodies (lentic and lotic systems) across the landscap
 * **Benito, X.**, Feitl, M., Fritz, S.C., Mosquera, P.V., Schneider, T., Hampel, H., Quevedo, L. & Steinitz-Kannan, M. Identifying temporal and spatial patterns of diatom community change in the tropical Andes over the last c. 150 years. 2019. Journal of Biogeography 43: 1889-1900.
 
 ## Ecological indicators across the aquatic continuum
-Freshwaters make disproportionate constributions to biochemical cycles and biodiversity, while coastal wetlands and deltas provide more ecosystem services than any other terrestrial biome for the same unit area. Employing a multidisciplinary approach, I combine traditional ecological</a> and palaeoecological approaches to study past, present and future Mediterranean coastal wetland ecosystems and tropical freshwaters.
+Freshwaters make disproportionate constributions to biochemical cycles and biodiversity, while coastal wetlands and deltas provide more ecosystem services than any other terrestrial biome for the same unit area. Employing a multidisciplinary approach, I combine traditional ecological and palaeoecological approaches to study past, present and future Mediterranean coastal wetland ecosystems and tropical freshwaters.
 
 * Luethje, M., **Benito, X.**, Schneider, T., Mosquera, P. V., Baker, P., & Fritz, S. C. (2023). Paleolimnological responses of Ecuadorian páramo lakes to local and regional stressors over the last two millennia. _Journal of Paleolimnology_. <a href="https://doi.org/10.1007/s10933-022-00274-5">DOI</a> 
 
@@ -38,7 +38,7 @@ Freshwaters make disproportionate constributions to biochemical cycles and biodi
 
 
 ## Diatom ecology and biogeography
-I study diatoms at species and community level to investigate long-term ecosystem variability and biogeographic patterns. At species level, I’m interested in how local and regional environmental factors dictate single-species distributions. At community level, I study assembly mechanisms (niche- and dispersal-based processes) to anticipate ecosystem response to environmental changes.
+I study diatoms at different **levels of biological organization** to investigate long-term ecosystem variability and biogeographic patterns. At species level, I’m interested in how local and regional environmental factors dictate single-species distributions. At community level, I study assembly mechanisms (niche- and dispersal-based processes) to anticipate ecosystem response to environmental changes.
 
 * **Benito. X.**, Luethje, M., Carrevedo M.L., Velez, M.I., Escobar, J., Tapia, P. Steinitz-Kannan, M. & Fritz, S.C. Tropical South American Diatom Database: a tool for studying the macroecology of microorganisms. _Diatom Research_. <a href="10.1080/0269249X.2022.2078429">DOI</a>.
 
