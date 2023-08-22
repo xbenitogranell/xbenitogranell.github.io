@@ -10,9 +10,9 @@ Email <a href="mailto:xavier.benito.granell@gmail.com"> me </a> if you are inter
 ## Paleoecological perspective of resilience
 I’m interested in studying critical transitions and non-linear ecosystem responses that are rarely captured in monitoring data, among other reasons, because environmental responses tend to be slow and lagged. I ask: What insights do abrupt transitions in the *palaeoenvironmental record* provide about the critical stressors and ecosystem response that give rise to the current state of socio-ecological systems?
 
-* **Benito. X.**, Benito, B., Schneider, T., Velez, M.I., Salgado, J., Giosan, L., Nascimiento, M. Human practices behind the aquatic and terrestrial ecological decoupling to climate change in the tropical Andes. 2022. Science of the Total Environment. <a href="https://doi.org/10.1016/j.scitotenv.2022.154115">Link</a>.
+* **Benito. X.**, Benito, B., Schneider, T., Velez, M.I., Salgado, J., Giosan, L., Nascimiento, M. Human practices behind the aquatic and terrestrial ecological decoupling to climate change in the tropical Andes. 2022. _Science of the Total Environment_. <a href="https://doi.org/10.1016/j.scitotenv.2022.154115">DOI</a>.
 
-* **Benito. X.**, Luethje, M., Schneider, T., Fritz, S.C., Baker, P., Pedersen, E., Gauzere, P., Nascimiento, M., Bush, M., Ruhi, A. Ecological resilience in tropical Andean lakes: a paleolimnological perspective. 2022. _Limnology & Oceanography_. <a href="https://doi.org/10.1002/lno.11747">Link</a>.
+* **Benito. X.**, Luethje, M., Schneider, T., Fritz, S.C., Baker, P., Pedersen, E., Gauzere, P., Nascimiento, M., Bush, M., Ruhi, A. Ecological resilience in tropical Andean lakes: a paleolimnological perspective. 2022. _Limnology & Oceanography_. <a href="https://doi.org/10.1002/lno.11747">DOI</a>.
 
 * Nascimento, M., Mosblech, N.A., Raczka, M.F., Baskin, S., Manrique, K.E., Wilger, J., Giosan, L., **Benito, X**. & Bush, M.B. The adoption of agropastoralism and increased ENSO frequency in the Andes. 2020. Quaternary Science Reviews 243, 106471. <a href="doi.org/10.1016/j.quascirev.2020.106471">DOI</a>.
 
