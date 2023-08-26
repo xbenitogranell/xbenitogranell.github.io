@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 layout: archive
-permalink: /projects/
+permalink: /pSESYNTH/
 author_profile: yes
 redirect_from: /resume
 ---
