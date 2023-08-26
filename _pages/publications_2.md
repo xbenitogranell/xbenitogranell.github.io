@@ -1,7 +1,7 @@
 ---
-title: "Projects"
+title: "Projects OLIGOTREND"
 layout: archive
-permalink: /projects_2/
+permalink: /oligotrend/
 author_profile: yes
 redirect_from: /resume
 ---
