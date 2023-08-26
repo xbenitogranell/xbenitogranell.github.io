@@ -15,8 +15,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Projects"
-    url: /projects/
+  - title: "Projects pSESYNTH"
+    url: /projects_1/
+    
+   - title: "Projects OLIGOTREND"
+    url: /projects_2/
     
   # - title: "Guide"
   #   url: /markdown/
