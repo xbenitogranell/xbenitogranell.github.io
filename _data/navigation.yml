@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Oligotrend"
+    url: /talks/
 
   - title: "Teaching"
     url: /teaching/
@@ -15,11 +15,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Projects pSESYNTH"
-    url: /projects_1/
+  - title: "Projects"
+    url: /projects/
     
-   - title: "Projects OLIGOTREND"
-    url: /projects_2/
+  # - title: "Projects OLIGOTREND"
+  #   url: /publications_2/
     
   # - title: "Guide"
   #   url: /markdown/
