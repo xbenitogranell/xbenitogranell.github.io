@@ -3,9 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Oligotrend"
-    url: /talks/
-
   - title: "Teaching"
     url: /teaching/
   #   
@@ -15,9 +12,12 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Projects"
+  - title: "pSESYNTH"
     url: /projects/
     
+  - title: "Oligotrend"
+    url: /talks/
+  
   # - title: "Projects OLIGOTREND"
   #   url: /publications_2/
     
