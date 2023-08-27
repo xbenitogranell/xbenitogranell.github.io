@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "pSESYNTH"
 layout: archive
 permalink: /projects/
 author_profile: yes
