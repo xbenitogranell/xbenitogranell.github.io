@@ -6,7 +6,6 @@ author_profile: yes
 redirect_from: /resume
 ---
 
-pSESYNTH
 ======
 >Community mobilization for a multidisciplinary paleo-database of the Global South
 
