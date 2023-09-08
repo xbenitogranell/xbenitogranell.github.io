@@ -35,11 +35,9 @@ pSESYNTH activities are being developed around three main objectives (Fig. 1):
 <img title="Methodology" alt="Alt text" src="/images/Global South and pSESYNTH participants and datasets.PNG">
 
 ### Contact
-Anyone interested in joining pSESYNTH can email the coordinators. We are seeking researchers working in or from the Global South, with broad interests in question-driven synthesis at the intersection of the three target project's themes: **paleoclimatology**, **paleoecology**, and **archaeology**.
+Anyone interested in joining pSESYNTH can fill in the form below. We are seeking researchers working in or from the Global South, with broad interests in question-driven synthesis at the intersection of the three target project's themes: **paleoclimatology**, **paleoecology**, and **archaeology**.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc0Wc3pNlUW_dG7cbUmQtBAM9YJz0maghX00QGRNkAYxgMPgQ/viewform?embedded=true" width="640" height="3509" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> 
-
-Get in touch!
 
 ### Outputs
 
