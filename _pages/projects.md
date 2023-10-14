@@ -40,7 +40,7 @@ We are seeking researchers working in or from the Global South, with broad inter
 
 ### Outputs
 
-Kulkarni et al. (2023) pSESYNTH project: Community mobilization for a multi-disciplinary paleo database of the Global South. Pages Magazine 31: 30-31 [Download paper here](https://pastglobalchanges.org/publications/pages-magazines/pages-magazine/137240)
-Charuta Kulkarni, Xavier Benito, Ignacio A. Jara, Manuel Chevalier and pSESYNTH participants. pSESYNTH project: building a interdisciplinary paleo-database of the Global South. Poster presented at INQUA 2023, Rome (16-20 July 2023). [Download file here](https://xbenitogranell.github.io/files/poster_pSESYNTHINQUA2023.pdf)
+* Kulkarni et al. (2023) pSESYNTH project: Community mobilization for a multi-disciplinary paleo database of the Global South. Pages Magazine 31: 30-31 [Download paper here](https://pastglobalchanges.org/publications/pages-magazines/pages-magazine/137240)
+* Charuta Kulkarni, Xavier Benito, Ignacio A. Jara, Manuel Chevalier and pSESYNTH participants. pSESYNTH project: building a interdisciplinary paleo-database of the Global South. Poster presented at INQUA 2023, Rome (16-20 July 2023). [Download file here](https://xbenitogranell.github.io/files/poster_pSESYNTHINQUA2023.pdf)
 
 
