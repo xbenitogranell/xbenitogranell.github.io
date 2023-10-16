@@ -49,7 +49,9 @@ I study diatoms at different **levels of biological organization** to investigat
 
 * Carballeira, R., Trobajo, R., Leira, M., **Benito, X.**, Sato, S. & Mann, D.G. 2017. A combined morphological and molecular approach to Nitzschia varelae sp. nov. with discussion of symmetry in Bacillariaceae. _European Journal of Phycology_ 52: 342–359
 
-## Raising awareness about gender gaps in academica
+## Raising awareness about gender gaps in academia ([Gender and Science group of the Iberian Association of Limnology](www.genderlimno.org))
+
+* Mendoza-Lera, C., Anton-Pardo, M., Bartrons, M., **Benito, X.**, Bernal, S.,  Bohorquez Bedoya, E., Cañedo-Argüelles, M., Catalán, N., Freixa, A.,  Bartrons, M., Bernal, S., Genua-Olmedo, A., Pastor, A., Poblador, S., Lupon, A., Sanchez-Montoya, M., León-Palmero, E., Fernandez, I., Zufiaurre, A., Rodríguez-Lozano, P. 2023. «My Teaching Is Not Gender Biased, Is It?» Limnology and Oceanography Bulletin. <a href="https://doi.org/10.1002/lob.10598">DOI</a>.
 
 * Catalán, N., Anton-Pardo, M., Freixa, A., Rodríguez-Lozano, P., Bartrons, M., Bernal, S., Genua-Olmedo, A., Mendoza-Lera, C., Onandía, G., **Benito, X.**, Sánchez-Montoya, M. M., Cañedo-Argüelles Iglesias, M., Pastor, A., & Lupon, A. (2022). Women in limnology: From a historical perspective to a present-day evaluation. _WIREs Water_, e1616. <a href="https://doi.org/10.1002/wat2.1616">DOI</a>.
 
