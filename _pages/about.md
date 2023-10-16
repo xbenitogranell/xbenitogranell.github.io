@@ -14,7 +14,7 @@ My research interests lie at the interface of **limnology, palaeoecology and bio
 
   As a biologist and environmental scientist by training, I'm also motivated by fundamental and applied questions of **socio-ecological systems**, particularly how human legacies explain current current ecosystem trajectories. I use data across spatial (local to continental) and temporal (decades to millennia) scales, involving quantitative multivariate analyses, geospatial and time series modelling.
     
-  I’m deeply interested in fostering **open data, facilitate the exchange of ideas and skill sets, and team science** to inform inform current climatic and sustainability issues using paleosciences. I'm co-leading two international research projects (see [pSESYNTY](https://xbenitogranell.github.io/projects/) and [Oligotrend](https://xbenitogranell.github.io/talks/)) in which I strive to apply these community mobilization aspects.
+  I’m deeply interested in fostering **open data, facilitate the exchange of ideas and skill sets, and team science** to inform inform current climatic and sustainability issues using paleosciences. I'm co-leading two international research projects (see [pSESYNTH](https://xbenitogranell.github.io/projects/) and [Oligotrend](https://xbenitogranell.github.io/talks/)) in which I strive to apply these community mobilization aspects.
 
 
 Research
