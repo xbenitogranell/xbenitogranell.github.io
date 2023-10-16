@@ -21,5 +21,5 @@ Keywords `Biogeography` `Diatoms` `Benthic foraminifera` `aquatic paleoecology` 
 
 CV
 ======
-[Full CV](https://docs.google.com/document/d/1PqAJ9K_Z8FAdpAnS9az11EdR_AJ5KQRzI9Knd5O4CGI/edit)
+[Full CV](https://xbenitogranell.github.io/files/Benito_CV_April2023.pdf)
 

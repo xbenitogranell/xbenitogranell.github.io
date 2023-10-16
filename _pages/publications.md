@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Email <a href="mailto:xavier.benito.granell@gmail.com"> me </a> if you are interested and have no access to the papers.
-For a complete list of publications, see my [Full CV](https://docs.google.com/document/d/1PqAJ9K_Z8FAdpAnS9az11EdR_AJ5KQRzI9Knd5O4CGI/edit)
+For a complete list of publications, see my [Full CV](https://xbenitogranell.github.io/files/Benito_CV_April2023.pdf)
 
 ## Paleoecological perspective of resilience
 I’m interested in studying critical transitions and non-linear ecosystem responses that are rarely captured in monitoring data, among other reasons, because environmental responses tend to be slow and lagged. I ask: What insights do abrupt transitions in the *palaeoenvironmental record* provide about the critical stressors and ecosystem response that give rise to the current state of socio-ecological systems?
