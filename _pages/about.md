@@ -16,11 +16,7 @@ My research interests lie at the interface of **limnology, palaeoecology and bio
     
   I’m deeply interested in fostering **open data, facilitate the exchange of ideas and skill sets, and team science** to inform inform current climatic and sustainability issues using paleosciences. I'm co-leading two international research projects (see [pSESYNTH](https://xbenitogranell.github.io/projects/) and [Oligotrend](https://xbenitogranell.github.io/talks/)) in which I strive to apply these community mobilization aspects.
 
-
-Research
-======
 Keywords `Biogeography` `Diatoms` `Benthic foraminifera` `aquatic paleoecology` `Quantitative time series modelling` `Ecological resilience` `Data-driven synthesis`
-
 
 CV
 ======
