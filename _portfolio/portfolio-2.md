@@ -21,6 +21,16 @@ By constructing a database of nutrients and primary production time-series longi
 ## People
 Camille Minaudo (Co-Principal Investigator) University of Barcelona
 Xavier Benito (Co-Principal Investigator) IRTA
+Andras Abony
+Carles Alcaraz
+Jake Diamond
+Estela Romero
+Nicholas Howden
+Michael Rode
+Vincent Thieu
+Fred Worrall
+Qian Zhang
 
 ## Outputs
-
+* OLIGOTREND, a global database of multi-decadal timeseries of chlorophyll-a and nutrient concentrations in inland and transitional waters, 1986-2023 [EDI Data Portal](https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1778.3)
+* [Preprint](https://essd.copernicus.org/preprints/essd-2025-58/)
