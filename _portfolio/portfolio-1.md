@@ -1,7 +1,7 @@
 ---
 title: "pSESYNTH project"
 excerpt: "pSESYNTH Project: community mobilization for a multidisciplinary paleo-database
-  of the Global South <br/><img src='/images/Methodology.PNG' width='200'>"
+  of the Global South <br/><img src='/images/Methodology.PNG' width='400'>"
 collection: portfolio
 ---
 
