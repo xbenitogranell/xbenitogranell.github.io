@@ -11,12 +11,10 @@ redirect_from:
 The Aquatic Ecology of Environmental Change
 ======
 
-::: {.callout-important}
 -   🔭Ramon y Cajal researcher (Eligible Tenure-Track researcher, Spanish State Research Agency)
 -   🏦Institute of Agrifood Research and Technology (IRTA), Spain
 -   📬email: xavier.benito(at)irta.cat
 -   [![orcid](https://img.shields.io/badge/orcid-0000--0003--0792--2625-brightgreen.svg)](https://orcid.org/0000-0003-0792-2625)
-:::
 
   My research interests lie at the interface of **limnology, palaeoecology and biogeography** on questions related to how dynamics between biotic communities and their physical environment change through time. I'm fascinated in using aquatic communities such as **diatoms** and **foraminifera** with complementary geochemical and hydrological reconstructions from aquatic ecosystems that receive the influence of catchment, and climate and anthropogenic forcings across the **aquatic continuum**: from high-mountain lakes to river deltas.
 
