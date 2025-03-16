@@ -9,11 +9,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "pSESYNTH"
-    url: /projects/
+  # - title: "pSESYNTH"
+  #   url: /projects/
     
-  - title: "Oligotrend"
-    url: /talks/
+  # - title: "Oligotrend"
+  #   url: /talks/
     
   - title: "Teaching"
     url: /teaching/
