@@ -1,6 +1,6 @@
 ---
 title: "PalaeOpen"
-excerpt: "Open Palaeoecological Data: analyzing the past building foresight"
+excerpt: "Open Palaeoecological Data: analyzing the past building foresight <br/><img src='/images/PalaeOpen.png' width='400'"
 collection: portfolio
 ---
 
