@@ -1,10 +1,7 @@
 ---
-title: "DECISION"
-excerpt: "Advancing quantitative paleoecology to guide socio-ecological system resilience of a Mediterranean delta to global change"
+title: "IberRios"
+excerpt: "A collaborative project to explore global change impacts on Iberian river biodiversity and ecosystem functions <br/><img src='/images/iberrios_orig.png' width='400'>"
 collection: portfolio
 ---
 
-> Consolidacion Investigadora project (Ref: CNS2024-154895) (2025-2027) funded by the [Spanish State Research Agency](https://www.aei.gov.es). 
-
-To be announced
-
+> Iberian River Observatory [IberRios](https://tanogutierrezcanovas.weebly.com/iberrios.html)
