@@ -10,6 +10,7 @@ collection: portfolio
 
 <img title="INQUA" alt="Alt text" src="/images/inqua.png">
 
+## Project description
 Funded by [International Union for Quaternary Research](https://inqua.org), the multi-year project “The whole is not the sum of the parts: building a synthesis database of past human-environmental systems in the Global South (pSESYNTH)” promotes international coordinated efforts to enhance paleo-scientific research, collaboration and application in the Global South.
 
 The overarching goal of pSESYNTH is to establish, articulate and strengthen regional, interdisciplinary teams for studying past socio-environmental systems of the Global South through **building the first multi-disciplinary paleo-database** representing its regions. 
