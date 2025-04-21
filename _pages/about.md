@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Institute of Agrifood Research and Technology (IRTA), Spain.
+subtitle: <a href='https://www.irta.cat/programa-de-recerca/aigues-marines-i-continentals/'>Affiliations</a>. Marine and Continental Waters Program, Institute of Agrifood Research and Technology (IRTA), Spain.
 
 profile:
   align: right
@@ -10,10 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Carretera Poble Nou km 5.5</p>
-    <p>43520 La Ràpita (Tarragoma) Spain</p>
+    <p>43520 La Ràpita (Tarragona) Spain</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
