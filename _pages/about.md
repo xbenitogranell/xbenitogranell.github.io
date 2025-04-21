@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Carretera Poble Nou km 5.5</p>
-    <p>43520 La Ràpita (Tarragona) Spain</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 
