@@ -11,10 +11,8 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about.md
+    content: about_xavier.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    <p>Carretera Poble Nou km 5.5</p>
-    <p>43520 La Ràpita (Tarragona) Spain</p>
-  
+
 ---
