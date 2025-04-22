@@ -14,5 +14,6 @@ profiles:
     content: about_xavier.md
     image_circular: false # crops the image to make it circular
     more_info: >
-
+    <p> Xavier Benito </p>
+    <p> Ramon y Cajal researcher (Eligible Tenure-Track researcher, Spanish State Research Agency)</p>
 ---
