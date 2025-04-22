@@ -14,7 +14,7 @@ profiles:
     content: about_xavier.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>**Xavier Benito**</p>
+      <p><b>Xavier Benito</b></p>
       <p>Ramon y Cajal researcher (Tenure-track eligible, Spanish State Research Agency)</p>
       <p>IRTA, La Ràpita, Spain</p>
 
