@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-      <p>Xavier Benito</p>
-      <p>Ramon y Cajal researcher (Tenure-track eligible, Spanish State Research Agency</p>
+      <p>**Xavier Benito**</p>
+      <p>Ramon y Cajal researcher (Tenure-track eligible, Spanish State Research Agency)</p>
       <p>IRTA, La Ràpita, Spain</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
