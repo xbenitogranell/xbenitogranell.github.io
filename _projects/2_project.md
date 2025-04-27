@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
+title: SEED
 description: DiatomS mEEt Databases: resources and practices to enable large-scale ecological research (SEED)
-img: assets/img/seed.png
+img: assets/img/centric-diatom.png
 importance: 2
 category: diatoms
-giscus_comments: true
 ---
 
 **Networking award funded by the [International Society for Diatom Research](www.isdr.org)**

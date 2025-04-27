@@ -5,7 +5,6 @@ description: Advancing quantitative paleoecology to guide socio-ecological syste
 img: assets/img/delta.png
 importance: 1
 category: long-term-ecology
-related_publications: true
 ---
 
 **Consolidacion Investigadora research project (Ref: CNS2024-154895) (2025-2027) [Spanish State Research Agency](https://www.aei.gov.es)**
