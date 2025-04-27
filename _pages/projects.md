@@ -2,12 +2,21 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 1
+display_categories: [long-term-ecology]
 horizontal: false
 ---
+
+This site summarizes some current research projects and contracts that I'm leading, co-coordinating and participating, and are categorized into:
+
+1. Paleoecological perspective of resilience
+2. Spatio-temporal community ecology
+3. Ecological indicators across the aquatic continuum
+4. Diatom ecology and biogeography
+5. Raising awareness about gender gaps in academia
+
 
 <!-- pages/projects.md -->
 <div class="projects">

@@ -2,9 +2,9 @@
 layout: page
 title: DECISION
 description: Advancing quantitative paleoecology to guide socio-ecological system resilience of a Mediterranean delta to global change
-img: assets/img/.jpg
+img: assets/img/delta.png
 importance: 1
-category: Long-term ecology
+category: long-term-ecology
 related_publications: true
 ---
 
@@ -39,10 +39,10 @@ The purpose of DECISION is to test the pragmatic yet ambitious hypothesis that t
 I am the principal investigator of the project.
 
 ## Team
-I welcome inquiries from MSc students interested in coastal paleoecology to join the project via a IRTA-funded PhD fellowship. Get in contact!
+I welcome inquiries from MSc students interested in coastal paleoecology to apply a IRTA-funded PhD fellowship. Get in contact!
 
 ## Selected publications
-{% cite einstein1950meaning %}.
+<!--{% cite einstein1950meaning %}.
 
 
 <!--<div class="row justify-content-sm-center">
@@ -57,9 +57,9 @@ I welcome inquiries from MSc students interested in coastal paleoecology to join
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>-->
 
-The code is simple.
+<!--The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Here's the code for the last row of images above:-->
 
 
