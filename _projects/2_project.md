@@ -7,7 +7,7 @@ importance: 2
 category: diatoms
 ---
 
-**Networking award funded by the [International Society for Diatom Research](www.isdr.org)**
+**Networking award funded by the [International Society for Diatom Research](https://www.isdr.org)**
 
 ## Project overview
 In the current era of growing synthesis efforts, regional collaborations are crucial to promote sharing information, knowledge and resources, and help maintain consistent methodologies and workflows. In diatom research, however, there are two main challenges that need to be addressed: 1) the increasing amount of information collected from diatom surveys and associated environmental data has outpaced the capacity of researchers to use this information efficiently, and 2) the access to data has ignored historical and local contexts where these data were generated, and have not been facilitated following standards of findability, accessibility, interoperationality, and reproducibility (FAIR principles).
@@ -18,7 +18,6 @@ Via three thematic work packages that include establishing the protocols for int
 
 The network is open to diatomists at any career stage, and early-career researchers (MSc and PhD students and junior postdocs) are particularly encouraged to participate. If you are interested in participating in SEED, kindly fill out this form. We will get in contact to define the geographic focus and data collection criteria according to participants’s data and interests.
 
-<img title="SEED" alt="Alt text" src="assets/img/SeeD_image.png">
 
 
 ## My role
