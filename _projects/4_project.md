@@ -3,7 +3,7 @@ layout: page
 title: PalaeOpen
 description: 
 img: assets/img/PalaeOpen.png
-importance: 5
+importance: 4
 category: Paleoecological perspective of resilience
 ---
 
