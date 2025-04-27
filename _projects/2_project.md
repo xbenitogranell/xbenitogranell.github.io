@@ -1,30 +1,22 @@
 ---
 layout: page
 title: SEED
-description: DiatomS mEEt Databases: resources and practices to enable large-scale ecological research (SEED)
-img: assets/img/centric-diatom.png
-importance: 2
+description: Advancing quantitative paleoecology to guide socio-ecological system resilience of a Mediterranean delta to global change
+img: assets/img/delta.png
+importance: 1
 category: long-term-ecology
 ---
 
-**Networking award funded by the [International Society for Diatom Research](https://www.isdr.org)**
+**Consolidación Investigadora research project (Ref: CNS2024-154895) (2025-2027) [Spanish State Research Agency](https://www.aei.gov.es)**
 
 ## Project overview
-In the current era of growing synthesis efforts, regional collaborations are crucial to promote sharing information, knowledge and resources, and help maintain consistent methodologies and workflows. In diatom research, however, there are two main challenges that need to be addressed: 1) the increasing amount of information collected from diatom surveys and associated environmental data has outpaced the capacity of researchers to use this information efficiently, and 2) the access to data has ignored historical and local contexts where these data were generated, and have not been facilitated following standards of findability, accessibility, interoperationality, and reproducibility (FAIR principles).
-
-The 2023 networking award “DiatomS mEEt Databases: resources and practices to enable large-scale ecological research (SEED)" aims to improve the quality of open-access diatom data for enabling large-scale ecological synthesis, with special emphasis in Iberoamerican. Specific objectives are: 1) build trust within a community of data generators and stewards, 2) inspire the next generation of diatom ecologists to create, share, and utilize global spatio-temporal data, and 3) stimulate networking within the Iberoamerican diatom researchers.
-
-Via three thematic work packages that include establishing the protocols for integrating the database, assembling the database through reproducible workflows that ensure taxonomic consistency and metadata information, and sharing the results of the database with the community via online and hybrid workshops leveraging the Neotoma open access research infrastructure, SEED will create synergies among diatom communities from Iberoamerica advancing towards a shared diatom inventory curated by the community and accessible to practitioners, educators, and scientists alike.
-
-The network is open to diatomists at any career stage, and early-career researchers (MSc and PhD students and junior postdocs) are particularly encouraged to participate. If you are interested in participating in SEED, kindly fill out this form. We will get in contact to define the geographic focus and data collection criteria according to participants’s data and interests.
+The purpose of DECISION is to test the pragmatic yet ambitious hypothesis that the onset and early rice cultivation and natural drivers of Ebro Delta long-term change and variability can be determined using a combination of aquatic palaeoecological proxies preserved in the sediments and Earth System’s modeling. First, we will examine past environmental conditions under which rice cultivation thrived following pre-dam and post-dam influences (last ca. 200 years). Then, we will reconstruct natural drivers of delta ecosystem change over the last 4000 years applying a combination of geochemistry (sediment provenance through XRF and foraminifera-based salinity paleoreconstructions) and modeling (past sea level curves and fluvial sediment discharges) methods. DECISION will finally translate past human-environmental dynamics to future simulations in the form of sensitivity maps to visualize where and when in the Ebro Delta natural and human-driven habitats may change.
 
 ## My role
-I am co-leading the networking project with: 
-1. Sandra Garcés Pastor, Marine Sciences Institute, Spanish National Research Council, Spain 
-2. Maria Lujan Garcia, University of Bremen, Germany 
-3. Sabrina Bustos, Institute of Biodiversity and Experimental and Applied Biology, CONICET, Argentina
+I am the principal investigator of the project.
 
-and help coordinate and develop the grant through my expertise in fostering collaborations among ECRs and database curation and analysis.
+## Team
+I welcome inquiries from MSc students interested in coastal paleoecology to apply a IRTA-funded PhD fellowship. Get in contact!
 
-## Network
+
 
