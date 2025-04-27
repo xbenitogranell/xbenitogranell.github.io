@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-teaching-amp-mentoring",
+          title: "teaching &amp; mentoring",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -459,7 +459,7 @@ ninja.data = [{
               window.location.href = "/projects/4_project/";
             },},{id: "projects-psesynth",
           title: 'pSESYNTH',
-          description: "",
+          description: "The whole is not the sum of the parts -- Building a synthesis database of past human-environmental systems in the Global South",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{
