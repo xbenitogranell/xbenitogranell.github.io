@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pSESYNTH
-description: 
+description: The whole is not the sum of the parts -- Building a synthesis database of past human-environmental systems in the Global South
 img: assets/img/psesynth.PNG
 importance: 5
 category: 
