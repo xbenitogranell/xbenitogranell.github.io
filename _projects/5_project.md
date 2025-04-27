@@ -16,7 +16,8 @@ The overarching goal of pSESYNTH is to establish, articulate and strengthen regi
 
 Are you interested in joining pSESYNTH? Fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0Wc3pNlUW_dG7cbUmQtBAM9YJz0maghX00QGRNkAYxgMPgQ/viewform) and we will get in contact with you.
 
-pSESYNTH activities are being developed around three main objectives (Fig. 1): 
+pSESYNTH activities are being developed around three main objectives:
+
 1. To explore what processes allow us to infer past drivers of environmental change using an interdisciplinary multiproxy approach, organized into three themes: paleoecology (e.g., pollen, charcoal, diatoms), paleoclimatology (e.g., biomarkers, stable isotopes, varves, numerical simulations), and archaeology (e.g., radiocarbon dates, phytoliths, archaeobotanical remains, material culture).
 
 2. To quantitatively analyze the links among paleoecology, paleoclimatology and archaeology, with an emphasis on research questions that can be generic across the Global South (e.g., are there connections – or commonalities – between colonial legacies and the evolution of socio-environmental systems in the Global South?) or specific to each sub-region (e.g., at what spatial and temporal scales were human-environmental systems coupled or uncoupled to climatic fluctuations?).
