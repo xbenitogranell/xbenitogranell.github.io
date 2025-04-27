@@ -1,10 +1,10 @@
 ---
 layout: page
 title: SEED
-description:
+description: DiatomS mEEt Databases -- resources and practices to enable large-scale ecological research
 img: assets/img/centric-diatom.png
-importance: 1
-category: long-term-ecology
+importance: 2
+category: diatoms
 ---
 
 **Networking award funded by the [International Society for Diatom Research](https://www.isdr.org)**
@@ -20,7 +20,8 @@ The network is open to diatomists at any career stage, and early-career research
 
 ## My role
 I am co-leading the networking project with: 
-1. Sandra Garcés Pastor, Marine Sciences Institute, Spanish National Research Council, Spain 2. Maria Lujan Garcia, University of Bremen, Germany 
+1. Sandra Garcés Pastor, Marine Sciences Institute, Spanish National Research Council, Spain
+2. Maria Lujan Garcia, University of Bremen, Germany 
 3. Sabrina Bustos, Institute of Biodiversity and Experimental and Applied Biology, CONICET, Argentina
 
 and help coordinate and develop the grant through my expertise in fostering collaborations among ECRs and database curation and analysis.
