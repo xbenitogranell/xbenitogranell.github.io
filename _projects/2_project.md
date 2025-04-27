@@ -8,17 +8,19 @@ category: diatoms
 giscus_comments: true
 ---
 
+**Networking award funded by the [International Society for Diatom Research](www.isdr.org)**
+
 ## Project overview
+In the current era of growing synthesis efforts, regional collaborations are crucial to promote sharing information, knowledge and resources, and help maintain consistent methodologies and workflows. In diatom research, however, there are two main challenges that need to be addressed: 1) the increasing amount of information collected from diatom surveys and associated environmental data has outpaced the capacity of researchers to use this information efficiently, and 2) the access to data has ignored historical and local contexts where these data were generated, and have not been facilitated following standards of findability, accessibility, interoperationality, and reproducibility (FAIR principles).
 
+The 2023 networking award “DiatomS mEEt Databases: resources and practices to enable large-scale ecological research (SEED)" aims to improve the quality of open-access diatom data for enabling large-scale ecological synthesis, with special emphasis in Iberoamerican. Specific objectives are: 1) build trust within a community of data generators and stewards, 2) inspire the next generation of diatom ecologists to create, share, and utilize global spatio-temporal data, and 3) stimulate networking within the Iberoamerican diatom researchers.
 
-<!--<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>-->
+Via three thematic work packages that include establishing the protocols for integrating the database, assembling the database through reproducible workflows that ensure taxonomic consistency and metadata information, and sharing the results of the database with the community via online and hybrid workshops leveraging the Neotoma open access research infrastructure, SEED will create synergies among diatom communities from Iberoamerica advancing towards a shared diatom inventory curated by the community and accessible to practitioners, educators, and scientists alike.
+
+The network is open to diatomists at any career stage, and early-career researchers (MSc and PhD students and junior postdocs) are particularly encouraged to participate. If you are interested in participating in SEED, kindly fill out this form. We will get in contact to define the geographic focus and data collection criteria according to participants’s data and interests.
+
+<img title="SEED" alt="Alt text" src="assets/img/SeeD_image.png">
+
 
 ## My role
 I am co-leading the networking project with: 
