@@ -5,15 +5,16 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 1
-display_categories: [long-term-ecology]
+display_categories: [long-term-ecology, 
+                    diatoms]
 horizontal: false
 ---
 
 This site summarizes some current research projects and contracts that I'm leading, co-coordinating and participating, and are categorized into:
 
 1. Paleoecological perspective of resilience
-2. Spatio-temporal community ecology
-3. Ecological indicators across the aquatic continuum
+2. Spatio-temporal community dynamics
+3. Time series and global change impacts on aquatic ecosystems
 4. Diatom ecology and biogeography
 5. Raising awareness about gender gaps in academia
 
