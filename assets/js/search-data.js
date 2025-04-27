@@ -451,7 +451,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-seed",
           title: 'SEED',
-          description: "",
+          description: "DiatomS mEEt Databases -- resources and practices to enable large-scale ecological research",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
