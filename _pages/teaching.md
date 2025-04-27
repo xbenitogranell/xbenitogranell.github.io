@@ -19,6 +19,6 @@ My goal as a mentor is to engage students in scientific questions, study designs
 
 :::: {#fig-teaching-ncol=1}
 
-![](assets/img/teaching.png)
+![teaching](assets/img/teaching.png)
 
 ::::
