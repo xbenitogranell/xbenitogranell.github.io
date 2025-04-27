@@ -454,6 +454,11 @@ ninja.data = [{
           description: "DiatomS mEEt Databases -- resources and practices to enable large-scale ecological research",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-oligotrend",
+          title: 'OLIGOTREND',
+          description: "Anticipating non-linear changes across aquatic ecosystems in response to oligotrophication trends",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
