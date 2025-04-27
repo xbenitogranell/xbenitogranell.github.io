@@ -4,7 +4,7 @@ title: DECISION
 description: Advancing quantitative paleoecology to guide socio-ecological system resilience of a Mediterranean delta to global change
 img: assets/img/delta.png
 importance: 1
-category: long-term-ecology
+category: Paleoecological perspective of resilience
 ---
 
 **Consolidación Investigadora research project (Ref: CNS2024-154895) (2025-2027) [Spanish State Research Agency](https://www.aei.gov.es)**
