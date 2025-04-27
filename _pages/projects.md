@@ -7,12 +7,11 @@ nav: true
 nav_order: 1
 display_categories: [paleo, 
                     diatoms,
-                    globalchange,
-                    ]
+                    globalchange]
 horizontal: false
 ---
 
-This site summarizes some current research projects and contracts that I'm leading, co-coordinating and participating, and are categorized into:
+This page summarizes some current research projects I'm leading, co-coordinating and participating, and are categorized into:
 
 1. Paleoecological perspective of resilience
 2. Spatio-temporal community dynamics
