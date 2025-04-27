@@ -21,6 +21,5 @@ I am the principal investigator of the project.
 ## Team
 I welcome inquiries from MSc students interested in coastal paleoecology to apply a IRTA-funded PhD fellowship. Get in contact!
 
-## Outputs
 
 

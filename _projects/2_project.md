@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: DiatomS mEEt Databases: resources and practices to enable large-scale ecological research (SEED)
-img: assets/img/SeeD_image.png
+img: assets/img/seed.png
 importance: 2
 category: diatoms
 giscus_comments: true
