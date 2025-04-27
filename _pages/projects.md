@@ -11,12 +11,13 @@ horizontal: false
 
 This page summarizes some current research projects I'm leading, co-coordinating and participating, and are categorized into:
 
-1. **Paleoecological perspective of resilience**
+1.**Paleoecological perspective of resilience**
 I’m interested in studying critical transitions and non-linear ecosystem responses that are rarely captured in monitoring data, among other reasons, because environmental responses tend to be slow and lagged. I ask: What insights do abrupt transitions in the palaeoenvironmental record provide about the critical stressors and ecosystem response that give rise to the current state of socio-ecological systems? 
 
-I'm currently developing some of these ideas in the research project [DECISION](1_project) focusing in the Ebro Delta and the potential of past environmental changes for to induce long-lasting effects in ecosystem development (both natural and semi-natural habitats).
+I'm currently developing some of these ideas in the research project [DECISION](1_project) focusing in the Ebro Delta and the potential for past environmental changes to induce long-lasting effects in ecosystem development (both natural and semi-natural habitats).
 
-2. **Spatio-temporal community dynamics**
+
+2.**Spatio-temporal community dynamics**
 The densification of water bodies (lentic and lotic systems) across the landscape has been used variously in limnology, but there is no an unified framework based on the ecological and geographical drivers beyond monitoring observations. I’m interested in bridging the gap between physical geography and limnology by investigating local and regional community dynamics (space) potentially connected by dispersal and changing through time, and the interactions between the two.
 
 
