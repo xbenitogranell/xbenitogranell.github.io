@@ -451,7 +451,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-seed",
           title: 'SEED',
-          description: "Advancing quantitative paleoecology to guide socio-ecological system resilience of a Mediterranean delta to global change",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
