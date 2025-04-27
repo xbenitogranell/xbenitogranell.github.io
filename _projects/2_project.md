@@ -4,7 +4,7 @@ title: SEED
 description: DiatomS mEEt Databases: resources and practices to enable large-scale ecological research (SEED)
 img: assets/img/centric-diatom.png
 importance: 2
-category: diatoms
+category: long-term-ecology
 ---
 
 **Networking award funded by the [International Society for Diatom Research](https://www.isdr.org)**
@@ -17,8 +17,6 @@ The 2023 networking award “DiatomS mEEt Databases: resources and practices to 
 Via three thematic work packages that include establishing the protocols for integrating the database, assembling the database through reproducible workflows that ensure taxonomic consistency and metadata information, and sharing the results of the database with the community via online and hybrid workshops leveraging the Neotoma open access research infrastructure, SEED will create synergies among diatom communities from Iberoamerica advancing towards a shared diatom inventory curated by the community and accessible to practitioners, educators, and scientists alike.
 
 The network is open to diatomists at any career stage, and early-career researchers (MSc and PhD students and junior postdocs) are particularly encouraged to participate. If you are interested in participating in SEED, kindly fill out this form. We will get in contact to define the geographic focus and data collection criteria according to participants’s data and interests.
-
-
 
 ## My role
 I am co-leading the networking project with: 
