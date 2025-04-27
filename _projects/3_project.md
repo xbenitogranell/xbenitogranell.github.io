@@ -4,7 +4,7 @@ title: OLIGOTREND
 description: Anticipating non-linear changes across aquatic ecosystems in response to oligotrophication trends
 img: assets/img/estuary.png
 importance: 3
-category: Time series and global change impacts on aquatic ecosystems
+category: globalchange
 ---
 
 ** ECR Advanced project (2022-2024) funded by [Iberian Association of Ecology](https://www.sibecol.org)**

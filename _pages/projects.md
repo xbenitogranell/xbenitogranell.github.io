@@ -5,11 +5,10 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 1
-display_categories: [Paleoecological perspective of resilience, 
-                    Spatio-temporal community dynamics,
-                    Time series and global change impacts on aquatic ecosystems,
-                    Diatom ecology and biogeography,
-                    Raising awareness about gender gaps in academia]
+display_categories: [paleo, 
+                    diatoms,
+                    globalchange,
+                    ]
 horizontal: false
 ---
 

@@ -4,7 +4,7 @@ title: SEED
 description: DiatomS mEEt Databases -- resources and practices to enable large-scale ecological research
 img: assets/img/centric-diatom.png
 importance: 2
-category: Diatom ecology and biogeography
+category: diatoms
 ---
 
 **Networking award funded by the [International Society for Diatom Research](https://www.isdr.org)**

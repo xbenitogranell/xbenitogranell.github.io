@@ -1,10 +1,10 @@
 ---
 layout: page
 title: PalaeOpen
-description: 
+description: Open Palaeoecological Data (PalaeOpen)- analysing the past building foresight
 img: assets/img/PalaeOpen.png
 importance: 4
-category: Paleoecological perspective of resilience
+category: paleo
 ---
 
 ** European Cooperation in Science and Technology [COST](https://www.cost.eu/actions/CA23116/)**
