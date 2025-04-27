@@ -190,6 +190,7 @@ exclude:
   - package-lock.json
   - _pages/about_einstein.md
   - _pages/blog.md
+  - _pages/cv.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -266,8 +267,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: Benito
+  first_name: [Xavier]
 
   style: apa
   locale: en

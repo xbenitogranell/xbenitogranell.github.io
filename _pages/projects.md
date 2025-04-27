@@ -5,9 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 1
-display_categories: [paleo, 
-                    diatoms,
-                    globalchange]
+display_categories: [paleo, globalchange, diatoms]
 horizontal: false
 ---
 
