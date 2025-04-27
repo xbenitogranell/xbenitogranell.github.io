@@ -4,7 +4,7 @@ title: pSESYNTH
 description: 
 img: assets/img/psesynth.PNG
 importance: 5
-category: paleo
+category: 
 ---
 
 ** Community mobilization for a multidisciplinary paleo-database of the Global South [INQUA](https://www.inqua.org)**
