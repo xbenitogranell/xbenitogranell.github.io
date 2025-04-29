@@ -412,7 +412,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-new-research-project-consolidación-investigadora-funded-by-the-spanish-state-research-agency-to-xavier-on-quantitative-coastal-paleoecology-stay-tuned-for-a-phd-opportunity-and-contact-me-for-inquiries-sparkles-smile",
+            },},{id: "news-a-new-research-project-consolidación-investigadora-funded-by-the-spanish-state-research-agency-to-xavier-on-quantitative-coastal-paleoecology-stay-tuned-for-a-phd-opportunity-and-contact-me-for-any-potential-interest-sparkles-smile",
           title: 'A new research project Consolidación Investigadora funded by the Spanish State Research Agency...',
           description: "",
           section: "News",},{id: "projects-decision",
