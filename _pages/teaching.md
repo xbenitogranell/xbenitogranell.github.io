@@ -17,8 +17,12 @@ I'm always keen to explore and help craft ideas for BSc and MSc final projects, 
 
 My goal as a mentor is to engage students in scientific questions, study designs, and data analysis. I also strive to encourage team work among the students, so they can learn to work in a multidisplinary environment for understanding natural phenomena, and hence ecology.
 
-:::: {#fig-teaching-ncol=1}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/teaching.png" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Teaching and Mentoring philosophy
+</div>
 
-![teaching](assets/img/teaching.png)
-
-::::
