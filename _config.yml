@@ -268,7 +268,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Benito
+  last_name: [Benito, Benito-Granell]
   first_name: [Xavier, X.]
 
   style: apa
