@@ -440,6 +440,16 @@ ninja.data = [{
           description: "The whole is not the sum of the parts -- Building a synthesis database of past human-environmental systems in the Global South",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-lagoons",
+          title: 'LAGOONS',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{id: "projects-iberrios",
+          title: 'IberRios',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
             },},{
         id: 'social-email',
         title: 'email',
