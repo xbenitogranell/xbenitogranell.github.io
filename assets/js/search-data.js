@@ -442,14 +442,19 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-lagoons",
           title: 'LAGOONS',
-          description: "",
+          description: "Management and Conservation of the Ebro Delta Coastal Lagoons",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-iberrios",
           title: 'IberRios',
-          description: "",
+          description: "A collaborative project to explore global change impacts on Iberian river biodiversity and ecosystem functions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-human-traces",
+          title: 'Human Traces',
+          description: "Synthesizing Human Traces in Latin American Paleoenvironments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-email',
         title: 'email',
