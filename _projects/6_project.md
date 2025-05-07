@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LAGOONS
-description: 
+description: Management and Conservation of the Ebro Delta Coastal Lagoons
 img: assets/img/wetland.png
 importance: 5
 category: 
