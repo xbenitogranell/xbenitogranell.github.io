@@ -17,6 +17,9 @@ This project incorporates conceptual elements of disturbance dynamics and trajec
         {% include figure.liquid loading="eager" path="assets/img/lagoons.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    DECISION workflow
+</div>
 
 ## My role
 I am the PI of the project and working with aquatic ecologists with expertise in different biological quality elements from IRTA's [AMIC](https://www.irta.cat/programa-de-recerca/aigues-marines-i-continentals) research group.
