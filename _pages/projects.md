@@ -49,6 +49,8 @@ I study diatoms at different levels of biological organization to investigate lo
 📕 The collaborative network [IberRios](7_project) aims at collecting information on a wide range of river organisms (i.e. prokaryotes, fungi, algae, macrophytes, macroinvertebrates, fishes, amphibians, reptiles, birds and mammals) and ecosystem functions (e.g. carbon and nutrient cycling, pathogen control, thermal regulation) over multiple years (LTER) and across a large spatial scale, covering eight major river basins in the Iberian Peninsula.
 
 ### **Raising awareness about gender gaps in academia**
+The Gender & Science group of the [Iberian Association of Limnology](https://limnetica.com/es/génerociencia) was created in 2014 to act as a gender observatory within the association and beyond, promote the role of women within the scientific community, and encourage gender equality measures in institutions directly or indirectly related to limnology.
+
 
 
 <!-- pages/projects.md -->
