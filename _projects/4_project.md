@@ -7,7 +7,7 @@ importance: 4
 category: 
 ---
 
-** European Cooperation in Science and Technology [COST](https://www.cost.eu/actions/CA23116/)**
+**European Cooperation in Science and Technology [COST](https://www.cost.eu/actions/CA23116/)**
 
 ## Project overview
 Restoring and managing nature during times of rapid environmental change requires knowledge of ecosystem response to climate and land use change on timescales of decades to millennia. Different palaeoecological disciplines have collected relevant, site-specific data during the last decades. Much of the palaeoecological data are currently dispersed across different repositories, databases and largely not publicly available.

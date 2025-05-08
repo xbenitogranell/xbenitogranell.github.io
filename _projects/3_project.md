@@ -7,7 +7,7 @@ importance: 3
 category: 
 ---
 
-** ECR Advanced project (2022-2024) funded by [Iberian Association of Ecology](https://www.sibecol.org)**
+**ECR Advanced project (2022-2024) funded by [Iberian Association of Ecology](https://www.sibecol.org)**
 
 ## Project overview
 The main objective of OLIGOTREND is identify the ways in which nutrient oligotrophication trends across the aquatic continuum (rivers, streams, lakes, and estuaries) influence ecological dynamics, how these trends changed over time, and the possible synchrony of abrupt changes in phytoplankton vs macrophyted dominated states.

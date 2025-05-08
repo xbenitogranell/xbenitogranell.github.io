@@ -7,8 +7,6 @@ importance: 5
 category: 
 ---
 
-**A collaborative project to explore global change impacts on Iberian river biodiversity and ecosystem functions**
-
 ## Project overview
 
 The Iberian River Observatory (IberRios) is led by [Cayetano Gutiérrez-Cánovas](https://tanogutierrezcanovas.weebly.com/iberrios.html) with funds from [Ministry of Science and Innovation](https://www.ciencia.gob.es/en/) and brings together a multidisciplinary network of >80 scientists and practitioners to develop a large-scale observatory for the monitoring of multiple stressor impacts on river biodiversity and ecosystem functions.
