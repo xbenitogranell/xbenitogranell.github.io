@@ -412,8 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-new-research-project-consolidación-investigadora-funded-by-the-spanish-state-research-agency-to-xavier-on-quantitative-coastal-paleoecology-stay-tuned-for-a-phd-opportunity-and-contact-me-for-any-potential-interest-sparkles-smile",
+            },},{id: "news-a-new-research-project-consolidación-investigadora-funded-by-the-spanish-state-research-agency-to-xavier-on-quantitative-coastal-paleoecology-see-here-for-more-details",
           title: 'A new research project Consolidación Investigadora funded by the Spanish State Research Agency...',
+          description: "",
+          section: "News",},{id: "news-looking-for-a-phd-student-as-part-of-the-decision-project-funded-by-the-spanish-state-research-agency-i-will-open-soon-a-fully-funded-phd-position-on-aquatic-paleoecology-the-candidate-is-expected-to-join-irta-s-marine-and-continental-waters-program-la-ràpita-spain-by-september-october-2025-a-more-detailed-description-of-the-thesis-project-can-be-found-here",
+          title: 'Looking for a PhD student!🔈 As part of the DECISION project, funded by...',
           description: "",
           section: "News",},{id: "projects-decision",
           title: 'DECISION',
