@@ -11,8 +11,7 @@ related_posts: false
 <br>Application: submit a **cover letter** (by stating how your background and research interests fit with the proposed PhD project) and **Curriculum Vitae** [here](https://talent.irta.cat/en/jobs/6032732-phd-candidate-for-a-project-about-aquatic-paleoecology) before **July 9th**.
 
 <br>
-A more detailed description of the thesis project can be found [here](assets/pdf/IRTA PhD offer aquatic paleoecology.pdf) 
-<br>[Contact me](mailto:xavier.benito@irta.cat) if you are interested to apply and have any questions :sparkles: :smile:
+<br>A more detailed description of the thesis project can be found [here](assets/pdf/IRTA PhD offer aquatic paleoecology.pdf). [Contact me](mailto:xavier.benito@irta.cat) if you are interested to apply and have any questions :sparkles: :smile:
 
 
 
