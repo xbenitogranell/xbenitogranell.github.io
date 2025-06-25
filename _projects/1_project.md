@@ -25,7 +25,8 @@ The purpose of DECISION is to test the pragmatic yet ambitious hypothesis that t
 I am the principal investigator of the project.
 
 ## Team
-I welcome inquiries from MSc holders interested in aquatic paleoecology to apply a fully funded PhD fellowship. Get in contact!
+I'm looking for a PhD candidate. Submit your application including a **cover letter** (by stating how your background and research interests fit with the proposed PhD project) and **Curriculum Vitae** here: https://talent.irta.cat/en/jobs/6032732-phd-candidate-for-a-project-about-aquatic-paleoecology before **July 9th**.
+
 
 
 
