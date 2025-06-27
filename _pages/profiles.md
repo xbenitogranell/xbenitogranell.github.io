@@ -18,4 +18,15 @@ profiles:
       <p>Ramon y Cajal researcher (Tenure-track eligible, Spanish State Research Agency)</p>
       <p>IRTA, La Ràpita, Spain</p>
 
+ - align: left
+    #image: prof_pic.jpg
+    content: about_paula.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><b>Paula Mendoza</b></p>
+      <p>PhD student</p>
+      <p>IRTA, La Ràpita, Spain</p>
+
 ---
+
+
