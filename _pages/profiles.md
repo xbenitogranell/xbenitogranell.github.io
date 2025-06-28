@@ -19,11 +19,10 @@ profiles:
       <p>IRTA, La Ràpita, Spain</p>
       
   - align: left
-    image: prof_pic.jpg
     content: about_paula.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p><b>Xavier Benito</b></p>
-      <p>Ramon y Cajal researcher (Tenure-track eligible, Spanish State Research Agency)</p>
+      <p><b>Paula Mendoza</b></p>
+      <p>PhD student (IRTA-URV fellowship)</p>
       <p>IRTA, La Ràpita, Spain</p>
 ---
