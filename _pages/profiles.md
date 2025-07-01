@@ -19,6 +19,7 @@ profiles:
       <p>IRTA, La Ràpita, Spain</p>
       
   - align: left
+    image: paula_pic.jpg
     content: about_paula.md
     image_circular: false # crops the image to make it circular
     more_info: >
