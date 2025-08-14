@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A new research project **Consolidación Investigadora** funded by the [Spanish State Research Agency](https:///www.aei.gov.es) to Xavier on **quantitative coastal paleoecology**! See project's [DECISION](1_project) description for more details
+A new research project **Consolidación Investigadora** funded by the [Spanish State Research Agency](https:///www.aei.gov.es) to Xavier on **quantitative coastal paleoecology**! See project's [DECISION](_projects/1_project) description for more details
