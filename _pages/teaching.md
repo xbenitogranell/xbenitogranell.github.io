@@ -10,10 +10,10 @@ nav_order: 6
 ## Mentoring
 My goal as a mentor is to engage students in scientific questions, study designs, and data analysis. I also strive to encourage team work among the students, so they can learn to work in a multidisplinary environment for understanding natural phenomena, and hence ecology.
 
-*Undergraduate students*
+**Undergraduate students**
 I'm always keen to explore and help craft ideas for BSc and MSc final projects, including but not limited to freshwater and transitional biological communities and responses to environmental change, metacommunities and biogeography (i.e., local and regional drivers of change), and paleolimnology (i.e., multi-proxy time series analyses). Feel free to [email me](emailto:xavier.benito@irta.cat) if you are interested to co-design such a project together.
 
-*Postdoctoral researchers*
+**Postdoctoral researchers**
 If you think my research lines are a good fit for your interests, I'm also happy to start conversations in co-developing postdoctoral fellowships. Please [email me](emailto:xavier.benito@irta.cat) with a short summary of your research interests and ideas. Some potential fellowships include:
 - [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025)
 - [Beatriu de Pinós Programm](https://agaur.gencat.cat/en/beques-i-ajuts/convocatories-per-temes/Ajuts-postdoctorals-Beatriu-de-Pinos-BP-2024) 3-year postdoctoral fellowship 

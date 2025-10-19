@@ -16,7 +16,7 @@ This page summarizes some current research projects I'm leading, co-coordinating
 ### **Paleoecological perspective of resilience**
 I’m interested in studying critical transitions and non-linear ecosystem responses that are rarely captured in monitoring data, among other reasons, because environmental responses tend to be slow and lagged. I ask: What insights do abrupt transitions in the palaeoenvironmental record provide about the critical stressors and ecosystem response that give rise to the current state of socio-ecological systems? 
 
-📗 I'm currently developing some of these ideas in the research project [DECISION](1_project) focusing in the Ebro Delta and the potential for past environmental changes to induce long-lasting effects in ecosystem development (both natural and semi-natural habitats).
+📗 I'm currently developing some of these ideas in two research projects ([DECISION](1_project) and [DELTAPULSE](9_project) focusing in the Ebro Delta and the potential for past environmental changes to induce long-lasting effects in ecosystem development (both natural and semi-natural habitats yet socio-environmentally relevant such as riche fields).
 
 📗 The [PalaeOpen](4_project) COST Action aims at mobilizing multi-proxy paleoecological data communities, improve data sharing workflows (OPEN, FAIR), and inform current and future nature conservation projects. My involvement with **PalaeOpen** is on co-leading the aquatic proxies working group to find practical ways bridging aquatic communities (diatoms, chironomids, ostracods, testate amoeba, foraminifera) among them and with terrestrial ecosystems dynamics.
 
@@ -51,7 +51,7 @@ I study diatoms at different levels of biological organization to investigate lo
 ### **Raising awareness about gender gaps in academia**
 The Gender & Science group of the [Iberian Association of Limnology](https://limnetica.com/es/génerociencia) was created in 2014 to act as a gender observatory within the association and beyond, promote the role of women within the scientific community, and encourage gender equality measures in institutions directly or indirectly related to limnology.
 
-
+<br><br>
 
 <!-- pages/projects.md -->
 <div class="projects">

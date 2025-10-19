@@ -18,7 +18,7 @@ This project incorporates conceptual elements of disturbance dynamics and trajec
     </div>
 </div>
 <div class="caption">
-    DECISION workflow
+    Coastal Wetland (Alfacys Bay) in the Ebro Delta
 </div>
 
 ## My role
