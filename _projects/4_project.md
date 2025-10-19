@@ -2,7 +2,7 @@
 layout: page
 title: PalaeOpen
 description: Open Palaeoecological Data (PalaeOpen)- analysing the past building foresight
-img: assets/img/PalaeOpen.png
+img: assets/img/PalaeOpen_without_text.png
 importance: 4
 category: 
 ---
@@ -17,7 +17,7 @@ This Action aims to meet the challenge of bringing much of these data into the p
 Scientific workshops in different parts of Europe will provide formats to interact with local nature conservation practitioners. The research agenda will address the knowledge gaps in nature conservation as well as the need to understand continental scale interactions of ecosystem components, including lagged or threshold responses. A dedicated outreach working group will ensure that the new knowledge is also accessible to the public. Moreover, the group will develop educational material for schools and universities based on the collected data.
 
 ## My role
-I am co-leading the “Aquatic proxies” Working group with [Stefan Engels](https://www.bbk.ac.uk/our-staff/profile/9150710/stefan-engels) where I contribute expertise on diatom ecology and paleoecology and help coordinate the development of the Action.
+I am co-leading the “Aquatic proxies” Working group with [Stefan Engels](https://pure.royalholloway.ac.uk/en/persons/stefan-engels) where I contribute expertise on diatom ecology and paleoecology and help coordinate the development of the Action, especifically database capacity building of aquatic paleorecords of diatoms, chironomids, ostracods and cladoceran.
 
 ## Outputs
 
