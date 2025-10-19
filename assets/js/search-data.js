@@ -461,8 +461,8 @@ ninja.data = [{
           description: "Synthesizing Human Traces in Latin American Paleoenvironments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-deltapulse",
-          title: 'DELTAPULSE',
+            },},{id: "projects-",
+          title: '',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
