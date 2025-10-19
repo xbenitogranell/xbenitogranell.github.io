@@ -2,7 +2,7 @@
 layout: page
 title: DELTAPULSE
 description: 
-img: assets/img/delta.png
+img: assets/img/delta_esa.png
 importance: 1
 category: 
 ---
