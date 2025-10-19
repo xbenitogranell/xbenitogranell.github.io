@@ -418,6 +418,9 @@ ninja.data = [{
           section: "News",},{id: "news-closed-looking-for-a-phd-student-as-part-of-the-decision-project-funded-by-the-spanish-state-research-agency-i-have-a-fully-funded-4-year-phd-position-on-aquatic-paleoecology-the-candidate-is-expected-to-join-irta-s-marine-and-continental-waters-program-la-ràpita-spain-by-september-october-2025-closed-a-detailed-description-of-the-thesis-project-can-be-found-here-contact-me-if-you-are-interested-to-explore-bsc-or-msc-opportunities-around-this-topic-and-if-have-any-questions-sparkles-smile",
           title: '[CLOSED] Looking for a PhD student!🔈 As part of the DECISION project, funded...',
           description: "",
+          section: "News",},{id: "news-we-got-a-new-research-project-generación-de-conocimiento-2025-funded-by-the-spanish-state-research-agency-the-overarching-goal-is-to-establish-the-links-between-deltaic-pulse-dynamics-and-ecosystem-development-at-centennial-and-milenial-time-scales-see-project-s-deltapulse-description-for-more-details-and-get-in-touch-if-you-want-to-establish-a-collaboration-on-this-topic",
+          title: 'We got a new research project Generación de Conocimiento 2025 funded by the...',
+          description: "",
           section: "News",},{id: "projects-decision",
           title: 'DECISION',
           description: "Advancing quantitative paleoecology to guide socio-ecological system resilience of a Mediterranean delta to global change",
@@ -458,6 +461,11 @@ ninja.data = [{
           description: "Synthesizing Human Traces in Latin American Paleoenvironments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
+            },},{id: "projects-deltapulse",
+          title: 'DELTAPULSE',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
