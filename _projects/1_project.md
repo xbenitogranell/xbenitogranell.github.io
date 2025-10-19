@@ -27,6 +27,22 @@ I am the principal investigator of the project.
 ## Team
 [Contact me](mailto:xavier.benito@irta.cat) if you are interested to explore BSc or MSc opportunities around this topic and if have any questions :sparkles: :smile:
 
+## News
+On August 21 and 22 we conducted the first sediment coring campaign in the Ebro Delta. The region selected was the peatland located in the inner border of the delta, locally known as "Ullals". These are freshwater wells formed by karstic-originated sediments that slow down the underground water coming from the catchment and push the water up to the surface. Organic matter with high water content (peat) is prevalent in these freshwater wetlands. This sedimentary system is very relevant to recover sequence of environmental change, including hydrological alteration in the most recent past and sea level and riverine sediment discharge changes at longer temporal scales.
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/BAL2_400-450.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/IMG_20250821_171629.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    On the left, a close view of the sediment core BAL2 400-450 cm depth (recovered using a Russian or peat corer). On the right, the brave team formed by Santi Riera (University of Barcelona, UB), Mateu (Archaeology UB undergrad student) and myself.
+</div>
+
+
 
 
 

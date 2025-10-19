@@ -37,7 +37,7 @@ I am co-leading the networking project with Camille Minaudo(Co-Principal Investi
 and help coordinate and develop the grant through my expertise in database curation and analysis and .
 
 ## Outputs
-- OLIGOTREND, a global database of multi-decadal timeseries of chlorophyll-a and nutrient concentrations in inland and transitional waters, 1986-2023 EDI Data Portal [link](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=1778)
+- OLIGOTREND, a global database of multi-decadal timeseries of chlorophyll-a and nutrient concentrations in inland and transitional waters, 1986-2023 EDI Data Portal [link](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=1778) {% cite minaudo_oligotrend_2024 %}
 
 
 
