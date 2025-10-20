@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DELTAPULSE
-description: Using the past to build sustainable deltas: paleoecological insights into ecosystem responses to pulsing dynamics in a global change context
+description: 
 img: assets/img/delta_esa.png
 importance: 9
 category: 
