@@ -1,8 +1,8 @@
 ---
 layout: page
 title: DELTAPULSE
-description: DiatomS mEEt Databases -- resources and practices to enable large-scale ecological research
-img:
+description: Using the past to build sustinable deltas--palaeocological insights into ecosystem responses to pulsing dynamics in a global change context 
+img: assets/img/delta_esa.png
 importance: 9
 category: 
 ---
