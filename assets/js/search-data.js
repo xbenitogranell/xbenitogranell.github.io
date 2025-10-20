@@ -463,7 +463,7 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-deltapulse",
           title: 'DELTAPULSE',
-          description: "DiatomS mEEt Databases -- resources and practices to enable large-scale ecological research",
+          description: "Using the past to build sustinable deltas--palaeocological insights into ecosystem responses to pulsing dynamics in a global change context",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
