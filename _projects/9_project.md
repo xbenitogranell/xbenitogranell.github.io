@@ -1,8 +1,8 @@
 ---
 layout: page
 title: DELTAPULSE
-description: 
-img: assets/img/delta_esa.png
+description: DiatomS mEEt Databases -- resources and practices to enable large-scale ecological research
+img:
 importance: 9
 category: 
 ---
