@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: members of the group
 nav: true
 nav_order: 7
 
@@ -25,5 +25,14 @@ profiles:
     more_info: >
       <p><b>Paula Mendoza</b></p>
       <p>PhD student (IRTA-URV fellowship)</p>
+      <p>IRTA, La Ràpita, Spain</p>
+      
+  - align: right
+    image: anastasia_pic.jpg
+    content: about_anastasia.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><b>Anastasia Ivanova</b></p>
+      <p>Prospective PhD student (IRTA fellowship)</p>
       <p>IRTA, La Ràpita, Spain</p>
 ---
