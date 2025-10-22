@@ -31,6 +31,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><b>Anastasia Ivanova</b></p>
-      <p>Prospective PhD student (IRTA fellowship)</p>
+      <p>PhD student (Starting Jan 2026) (IRTA-funded fellowship)</p>
       <p>IRTA, La Ràpita, Spain</p>
 ---
