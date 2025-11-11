@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-🔊 Looking for prospective postdocs to apply to **Juan de la Cierva** fellowship! Interested in aquatic paleocology, global change impacts on deltas, and/or benthic communities (e.g., diatoms and foraminifera) in forgotten ecosystems such as freshwater islands or coastal lagoons? Contact me for further information and I'd be happy to help co-develop a proposal.
+🔊 Looking for prospective postdocs to apply to **Juan de la Cierva** fellowship! Interested in aquatic paleocology, global change impacts on deltas, and/or benthic communities (e.g., diatoms and foraminifera) in forgotten ecosystems such as islands' freshwater streams or coastal lagoons? Contact me for further information and I'd be happy to help co-develop a proposal.
 
 <br>
 <br>Who: recently graduated PhDs (between January 1st 2024 and December 31st 2025)
