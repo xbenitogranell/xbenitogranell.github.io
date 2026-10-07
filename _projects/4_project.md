@@ -20,6 +20,8 @@ Scientific workshops in different parts of Europe will provide formats to intera
 I am co-leading the “Aquatic proxies” Working group with [Stefan Engels](https://pure.royalholloway.ac.uk/en/persons/stefan-engels) where I contribute expertise on diatom ecology and paleoecology and help coordinate the development of the Action, especifically database capacity building of aquatic paleorecords of diatoms, chironomids, ostracods and cladoceran.
 
 ## Outputs
+- [Scripts and materials for the PalaeOpen Training School workshop "introduction to neotoma2" Sofia 16/06/26](https://github.com/PalaeOpen/workshop-neotoma2-trainingschool) 
+
 
 
 

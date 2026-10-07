@@ -37,7 +37,10 @@ I am co-leading the networking project with Camille Minaudo(Co-Principal Investi
 and help coordinate and develop the grant through my expertise in database curation and analysis and .
 
 ## Outputs
+- River oligotrophication under global change: A systematic review of long-term nutrient trends and biological responses [link](https://www.sciencedirect.com/science/article/pii/S1470160X26008575) {% cite thinh_river_2026 %}
+- OLIGOTREND, a global database of multi-decadal chlorophyll-a and water quality time series for rivers, lakes, and estuaries [link](https://essd.copernicus.org/articles/17/3411/2025/) {% cite minaudo_oligotrend_2025 %}
 - OLIGOTREND, a global database of multi-decadal timeseries of chlorophyll-a and nutrient concentrations in inland and transitional waters, 1986-2023 EDI Data Portal [link](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=1778) {% cite minaudo_oligotrend_2024 %}
+
 
 
 

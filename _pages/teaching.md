@@ -20,17 +20,8 @@ If you think my research lines are a good fit for your interests, I'm also happy
 - [Juan de la Cierva](http://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2024) 3-year postdoctoral fellowship (less than 2 years post PhD defense)
 
 
-
 ## Teaching activities
 
-My teaching phylosophy is to raise curiosity and help students develop their scientific mindset by learning more the moment they step out of class. Between 2021 and 2024, I held an adjunct professorship at the [University of Barcelona](https://www.ub.edu), Department of Evolutionary Biology, Ecology, and Environmental Sciences, where I taught and coordinate BSc- and MSc-level courses in Environmental Sciences, Biology, and Marine Sciences.
+My teaching phylosophy is to raise curiosity and help students develop their scientific mindset by learning more the moment they step out of class. Between 2021 and 2024, I held an adjunct professorship at the [University of Barcelona](https://www.ub.edu), Department of Evolutionary Biology, Ecology, and Environmental Sciences, where I taught and coordinate BSc- and MSc-level courses in Environmental Sciences, Biology, and Marine Sciences. Previously, I had the chance to deliver guest lectures in the Freshwater Ecology and Time Series Analyses subjects at the [University of Carlifornia, Berkeley](https://vcresearch.berkeley.edu)
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching.png" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Teaching and Mentoring philosophy
-</div>
 

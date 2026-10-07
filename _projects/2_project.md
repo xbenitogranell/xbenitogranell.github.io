@@ -27,7 +27,9 @@ I am co-leading the networking project with:
 and help coordinate and develop the grant through my expertise in fostering collaborations among ECRs and database curation and analysis.
 
 ## Outputs
-
+- SeeD database Zenodo community [link](https://zenodo.org/communities/seed/records?q=&l=list&p=1&s=10&sort=newest)
+- SeeD project report [link](assets/pdf/ISDR grant SeeD report July 2026.pdf) 
+- [Repository containing scripts and data for the workshop "Diatom ecology through lenses of OPEN and FAIR practices" in Murcia, Spain (6-7-2026)](https://github.com/xbenitogranell/workshop-edm26) at the [16th European Diatom Meeting](https://edm2026.es)
 
 
 
