@@ -1,0 +1,1 @@
+As part of my final degree project at the high school of Alfacs (La Ràpita, Spain), I am investigating the diatom communities of the Encanyissada lagoon, in the Ebro Delta.

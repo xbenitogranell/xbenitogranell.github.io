@@ -31,6 +31,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><b>Anastasia Ivanova</b></p>
-      <p>PhD student (Starting Jan 2026) (IRTA-funded fellowship)</p>
-      <p>IRTA, La Ràpita, Spain</p>
+      <p>PhD student (IRTA-funded fellowship)</p>
+      <p>IRTA, La Ràpita, Spain and University of Barcelona</p>
+  - align: left
+    image: .jpg
+    content: about_noa.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><b>Noa Curto</b></p>
+      <p>Undergraduate student</p>
+      <p>IRTA, La Ràpita</p>
 ---
