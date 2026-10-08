@@ -10,7 +10,7 @@ related_posts: false
 <br>
 <br>Who: recently graduated PhDs (between January 1st 2025 and December 31st 2026) 
 <br>Apply: 12/11/2026 - 26/11/2026
-<br>3-year contract [Call description](https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2026)
+<br>3-year contract[Call description](https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-juan-cierva-2026)
 
 
 
