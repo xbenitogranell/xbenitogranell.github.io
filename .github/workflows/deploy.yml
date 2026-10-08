@@ -104,13 +104,9 @@ jobs:
           sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
-<<<<<<< HEAD
           bundle install --jobs 4 --retry 3
           bundle exec jekyll build --trace
-=======
-          bundle exec jekyll build
 
->>>>>>> f510cbe26777ec5782b4340c9a21c56e4fff4162
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
