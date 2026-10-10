@@ -34,7 +34,7 @@ profiles:
       <p>PhD student (IRTA-funded fellowship)</p>
       <p>IRTA, La Ràpita, Spain and University of Barcelona</p>
   - align: left
-    image: .jpg
+    image: noa_pic.jpg
     content: about_noa.md
     image_circular: false # crops the image to make it circular
     more_info: >
